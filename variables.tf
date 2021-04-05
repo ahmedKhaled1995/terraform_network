@@ -42,9 +42,6 @@ variable nat_count {
     type = "string"
 }
 
-variable password {
-    type = "string"
-}
 
 variable ami {
     type = "string"
